@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hjjnBNmy6rALCTS0Cr/CCjK4Iivurf+gQ4KWeiuBBwQ=",
+  "Source": "BrettBot",
+  "BasePath": "_content/BrettBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BrettBot\\wwwroot",
+      "Source": "BrettBot",
+      "ContentRoot": "C:\\Users\\toole\\OneDrive\\Source\\BrettBot\\BrettBot\\wwwroot\\",
+      "BasePath": "_content/BrettBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\toole\\OneDrive\\Source\\BrettBot\\BrettBot\\wwwroot\\default.html",
+      "SourceId": "BrettBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\toole\\OneDrive\\Source\\BrettBot\\BrettBot\\wwwroot\\",
+      "BasePath": "_content/BrettBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
